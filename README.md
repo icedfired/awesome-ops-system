@@ -26,7 +26,7 @@
  - [cookieY/Yearning](https://github.com/cookieY/Yearning) - Mysql web端sql审核平台 http://yearning.io/
  - [wangweianger/APubPlat](https://github.com/wangweianger/APubPlat) - Devops自动化部署、堡垒机开源项目、Web Terminal http://apub-wiki.seosiwei.com
  - [openspug/spug](https://github.com/openspug/spug) - Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 演示地址：https://demo.spug.dev 演示账号: admin 演示密码：spug
- - [orion-ops(https://github.com/lijiahangmax/orion-ops)] - 一站式自动化运维及自动化部署平台, 使用多环境的概念, 提供了机器管理、机器监控报警、Web终端、WebSftp、机器批量执行、机器批量上传、在线查看日志、定时调度任务、应用环境维护、应用构建及发布任务、操作流水线等功能, 帮助企业实现一站式轻量化运维治理, 致力于企业级应用的智能运维。演示地址: https://do.orionsec.cn/#/ 演示账号: orionadmin/orionadmin
+ - [orion-ops](https://github.com/lijiahangmax/orion-ops) - orion-ops是一站式自动化运维及自动化部署平台, 使用多环境的概念, 提供了机器管理、机器监控报警、Web终端、WebSftp、机器批量执行、机器批量上传、在线查看日志、定时调度任务、应用环境维护、应用构建及发布任务、操作流水线等功能, 帮助企业实现一站式轻量化运维治理, 致力于企业级应用的智能运维。演示地址: https://do.orionsec.cn/#/ 演示账号: orionadmin/orionadmin
  
  ### dns管理工具
  - [itimor/bindapi](https://github.com/itimor/bindapi) - binddns restfull api开发
